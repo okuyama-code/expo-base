@@ -54,3 +54,12 @@ npm run ios
 ## UI選定
 ダウンロード数が一番多いreact-native-paperを使用
 https://callstack.github.io/react-native-paper/docs/guides/getting-started/
+
+## モックサーバーを立ち上げるには
+```
+npm run server
+```
+http://localhost:4000/ へアクセス
+
+Apollo Sandboxの使い方の例
+![Apollo Sandbox](./assets/sample.png)
